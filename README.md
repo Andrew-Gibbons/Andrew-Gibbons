@@ -1,4 +1,4 @@
-## Hi there 👋
+I am currently working on Coursera work while doing independent projects to showcase to employers.
 
 <!--
 **Andrew-Gibbons/Andrew-Gibbons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
