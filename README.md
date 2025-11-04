@@ -1,6 +1,10 @@
 I am currently working on Coursera classes while doing independent projects to showcase to employers.
 
-This is my first edit.
+All of the work in these repositories are from college coursework.  I scored 100% on nearly all assignments.
+
+At this time I am working through a Murach's HTML/CSS project with JavaScript projects to follow.
+
+After that I have a book about Ai in Web Development that has a project written in Python that I would like to complete.
 
 <!--
 **Andrew-Gibbons/Andrew-Gibbons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
