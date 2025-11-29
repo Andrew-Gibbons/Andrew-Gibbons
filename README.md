@@ -1,7 +1,7 @@
-I have completed Murach's HTML/CSS training material.  Here is the mobile version of San Joaquin Valley Paleontologists seminars:
+I have completed Murach's HTML/CSS training material.  Here is the mobile version of San Joaquin Valley Paleontologists seminars: 
 https://andrew-gibbons.github.io/San_Joaquin/index.html
 
-Here is the desktop version of San Joaquin Valley Paeontologists seminars:
+Here is the desktop version of San Joaquin Valley Paeontologists seminars: 
 https://andrew-gibbons.github.io/San-Joaquin-Desktop/index.html
 
 Here is a text based browser game called Adventure Game written entirely in JavaScript:
