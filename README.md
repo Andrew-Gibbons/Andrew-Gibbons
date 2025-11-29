@@ -1,10 +1,8 @@
-I am currently working on Coursera classes while doing independent projects to showcase to employers.
+I have completed Murach's HTML/CSS training material.  Here is the mobile version of San Joaquin Valley Paleontologists seminars: https://andrew-gibbons.github.io/San_Joaquin/index.html
 
-All of the work in these repositories are from college coursework.  I scored 100% on nearly all assignments.
+Here is the desktop version of SanJoaquin Valley Paeontologists seminars:
 
-At this time I am working through a Murach's HTML/CSS project with JavaScript projects to follow.
-
-After that I have a book about Ai in Web Development that has a project written in Python that I would like to complete.
+Here is a text based browser game called Adventure Game written entirely in JavaScript:
 
 <!--
 **Andrew-Gibbons/Andrew-Gibbons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
