@@ -1,9 +1,9 @@
 I have completed Murach's HTML/CSS training material.
 
-Here is the desktop version of San Joaquin Valley Paleontologists seminars:                                                       
+Here is the desktop version of San Joaquin Valley Paleontologists luncheons:                                                       
 https://andrew-gibbons.github.io/San-Joaquin-Desktop/index.html
 
-Here is the mobile version of San Joaquin Valley Paleontologists seminars:                                           
+Here is the mobile version of San Joaquin Valley Paleontologists luncheons:                                           
 https://andrew-gibbons.github.io/San_Joaquin/index.html
 
 This is a Coursera project text based terminal game written entirely in JavaScript called Adventure Game:                               
